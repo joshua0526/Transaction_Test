@@ -1,0 +1,33 @@
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\signtool.exe.config
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\signtool.exe
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\signtool.pdb
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\thinSDK.dll
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\thinSDK_neo.dll
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\llvm.dll
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\thinSDK.pdb
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\thinSDK_neo.pdb
+E:\lizhantest\InvokeContractTest\signtool\bin\Debug\llvm.pdb
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.csprojAssemblyReference.cache
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\Dialog Import_Nep6.g.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\Dialog Input.g.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\dialog_MultiSign.g.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\dialog_importTX.g.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\dialog_exportTX.g.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\MainWindow.g.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\App.g.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool_MarkupCompile.cache
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool_MarkupCompile.lref
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\Dialog Import_Nep6.baml
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\Dialog Input.baml
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\dialog_MultiSign.baml
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\dialog_importTX.baml
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\dialog\dialog_exportTX.baml
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\MainWindow.baml
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.g.resources
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.Properties.Resources.resources
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.csproj.GenerateResource.cache
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.csproj.CoreCompileInputs.cache
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.csproj.CopyComplete
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.exe
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\signtool.pdb

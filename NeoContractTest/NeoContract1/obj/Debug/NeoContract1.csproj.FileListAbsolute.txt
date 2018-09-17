@@ -1,0 +1,7 @@
+E:\lizhantest\NeoContractTest\NeoContract1\bin\Debug\NeoContract1.dll
+E:\lizhantest\NeoContractTest\NeoContract1\bin\Debug\NeoContract1.pdb
+E:\lizhantest\NeoContractTest\NeoContract1\bin\Debug\Neo.SmartContract.Framework.dll
+E:\lizhantest\NeoContractTest\NeoContract1\obj\Debug\NeoContract1.csproj.CoreCompileInputs.cache
+E:\lizhantest\NeoContractTest\NeoContract1\obj\Debug\NeoContract1.csproj.CopyComplete
+E:\lizhantest\NeoContractTest\NeoContract1\obj\Debug\NeoContract1.dll
+E:\lizhantest\NeoContractTest\NeoContract1\obj\Debug\NeoContract1.pdb

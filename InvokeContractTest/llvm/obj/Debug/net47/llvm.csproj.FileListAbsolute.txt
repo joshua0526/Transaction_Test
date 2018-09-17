@@ -1,0 +1,16 @@
+E:\lizhan_git\neo-thinsdk-cs\llvm\bin\Debug\net47\llvm.dll
+E:\lizhan_git\neo-thinsdk-cs\llvm\bin\Debug\net47\llvm.pdb
+E:\lizhan_git\neo-thinsdk-cs\llvm\obj\Debug\net47\llvm.csprojAssemblyReference.cache
+E:\lizhan_git\neo-thinsdk-cs\llvm\obj\Debug\net47\llvm.csproj.CoreCompileInputs.cache
+E:\lizhan_git\neo-thinsdk-cs\llvm\obj\Debug\net47\llvm.AssemblyInfoInputs.cache
+E:\lizhan_git\neo-thinsdk-cs\llvm\obj\Debug\net47\llvm.AssemblyInfo.cs
+E:\lizhan_git\neo-thinsdk-cs\llvm\obj\Debug\net47\llvm.dll
+E:\lizhan_git\neo-thinsdk-cs\llvm\obj\Debug\net47\llvm.pdb
+E:\lizhantest\InvokeContractTest\llvm\bin\Debug\net47\llvm.dll
+E:\lizhantest\InvokeContractTest\llvm\bin\Debug\net47\llvm.pdb
+E:\lizhantest\InvokeContractTest\llvm\obj\Debug\net47\llvm.csprojAssemblyReference.cache
+E:\lizhantest\InvokeContractTest\llvm\obj\Debug\net47\llvm.csproj.CoreCompileInputs.cache
+E:\lizhantest\InvokeContractTest\llvm\obj\Debug\net47\llvm.AssemblyInfoInputs.cache
+E:\lizhantest\InvokeContractTest\llvm\obj\Debug\net47\llvm.AssemblyInfo.cs
+E:\lizhantest\InvokeContractTest\llvm\obj\Debug\net47\llvm.dll
+E:\lizhantest\InvokeContractTest\llvm\obj\Debug\net47\llvm.pdb

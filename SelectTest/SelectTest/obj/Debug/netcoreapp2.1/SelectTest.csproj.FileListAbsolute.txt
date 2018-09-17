@@ -1,0 +1,11 @@
+E:\lizhantest\SelectTest\SelectTest\bin\Debug\netcoreapp2.1\SelectTest.deps.json
+E:\lizhantest\SelectTest\SelectTest\bin\Debug\netcoreapp2.1\SelectTest.runtimeconfig.json
+E:\lizhantest\SelectTest\SelectTest\bin\Debug\netcoreapp2.1\SelectTest.runtimeconfig.dev.json
+E:\lizhantest\SelectTest\SelectTest\bin\Debug\netcoreapp2.1\SelectTest.dll
+E:\lizhantest\SelectTest\SelectTest\bin\Debug\netcoreapp2.1\SelectTest.pdb
+E:\lizhantest\SelectTest\SelectTest\obj\Debug\netcoreapp2.1\SelectTest.csprojAssemblyReference.cache
+E:\lizhantest\SelectTest\SelectTest\obj\Debug\netcoreapp2.1\SelectTest.csproj.CoreCompileInputs.cache
+E:\lizhantest\SelectTest\SelectTest\obj\Debug\netcoreapp2.1\SelectTest.AssemblyInfoInputs.cache
+E:\lizhantest\SelectTest\SelectTest\obj\Debug\netcoreapp2.1\SelectTest.AssemblyInfo.cs
+E:\lizhantest\SelectTest\SelectTest\obj\Debug\netcoreapp2.1\SelectTest.dll
+E:\lizhantest\SelectTest\SelectTest\obj\Debug\netcoreapp2.1\SelectTest.pdb

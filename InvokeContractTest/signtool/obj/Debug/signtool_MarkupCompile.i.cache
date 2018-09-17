@@ -1,0 +1,20 @@
+﻿signtool
+
+
+winexe
+C#
+.cs
+E:\lizhantest\InvokeContractTest\signtool\obj\Debug\
+signtool
+none
+false
+DEBUG;TRACE
+E:\lizhantest\InvokeContractTest\signtool\App.xaml
+6-252101244
+
+17-2005556314
+15161670853
+dialog\Dialog Import_Nep6.xaml;dialog\Dialog Input.xaml;dialog\dialog_MultiSign.xaml;dialog\dialog_importTX.xaml;dialog\dialog_exportTX.xaml;MainWindow.xaml;
+
+False
+

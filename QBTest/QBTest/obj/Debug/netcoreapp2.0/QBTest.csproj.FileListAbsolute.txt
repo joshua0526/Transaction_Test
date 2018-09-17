@@ -1,0 +1,13 @@
+E:\lizhantest\QBTest\QBTest\bin\Debug\netcoreapp2.0\QBTest.deps.json
+E:\lizhantest\QBTest\QBTest\bin\Debug\netcoreapp2.0\QBTest.runtimeconfig.json
+E:\lizhantest\QBTest\QBTest\bin\Debug\netcoreapp2.0\QBTest.runtimeconfig.dev.json
+E:\lizhantest\QBTest\QBTest\bin\Debug\netcoreapp2.0\QBTest.dll
+E:\lizhantest\QBTest\QBTest\bin\Debug\netcoreapp2.0\QBTest.pdb
+E:\lizhantest\QBTest\QBTest\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+E:\lizhantest\QBTest\QBTest\obj\Debug\netcoreapp2.0\QBTest.csprojAssemblyReference.cache
+E:\lizhantest\QBTest\QBTest\obj\Debug\netcoreapp2.0\QBTest.csproj.CoreCompileInputs.cache
+E:\lizhantest\QBTest\QBTest\obj\Debug\netcoreapp2.0\QBTest.AssemblyInfoInputs.cache
+E:\lizhantest\QBTest\QBTest\obj\Debug\netcoreapp2.0\QBTest.AssemblyInfo.cs
+E:\lizhantest\QBTest\QBTest\obj\Debug\netcoreapp2.0\QBTest.csproj.CopyComplete
+E:\lizhantest\QBTest\QBTest\obj\Debug\netcoreapp2.0\QBTest.dll
+E:\lizhantest\QBTest\QBTest\obj\Debug\netcoreapp2.0\QBTest.pdb

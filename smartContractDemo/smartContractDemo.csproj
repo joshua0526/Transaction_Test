@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="tests\nns\CoinPool.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="tests\others\Nep5.5_1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\llvm\llvm.csproj" />
+    <ProjectReference Include="..\thinSDK\thinSDK.csproj" />
+    <ProjectReference Include="..\thinSDK_neo\thinSDK_neo.csproj" />
+  </ItemGroup>
+</Project>
